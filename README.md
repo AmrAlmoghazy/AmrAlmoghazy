@@ -1,8 +1,44 @@
-# 👋 Hi, I'm Amr Almoghazy
+<h1 align="center">Hey there! 👋 I'm Amr Almoghazy</h1>
 
-💻 I'm a .NET Backend Developer, passionate about building clean and scalable APIs using modern technologies.  
-🎓 Currently a student at Damietta University – Faculty of Computers & Artificial Intelligence.  
-🌱 I’m constantly learning and improving my skills in C#, ASP.NET Core, Entity Framework, and software architecture.  
-📊 I also enjoy solving problems on LeetCode and learning about data structures and algorithms. 
+<p align="center">
+💻 .NET Backend Developer | 🎓 CS Student @ Damietta University – Faculty of Computers & AI  
+</p>
 
-📫 You can reach me at: amralmoghazy20@gmail.com
+---
+
+## 👨‍💻 About Me
+
+- 🧠 I'm passionate about building clean, scalable, and efficient backend systems using .NET technologies.
+- 📚 Currently studying Computer Science at Damietta University.
+- 🧪 Exploring clean architecture, design patterns, and writing better code every day.
+- 🧩 I love solving algorithmic challenges.
+- 🌱 Always learning something new: from microservices to system design!
+
+---
+
+## 🛠 Tech Stack
+
+- **Languages:** C#, SQL, JavaScript (basics)
+- **Backend:** ASP.NET Core, Entity Framework Core, ASP.NET MVC
+- **Tools:** Git, Visual Studio, Docker (learning)
+- **Databases:** SQL Server
+- **Other:** HTML, CSS, GitHub Actions
+
+---
+
+## 📫 Let's Connect!
+
+- 📧 Email: amralmoghazy20@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/amralmoghazy)
+
+## 📌 Featured Projects
+
+Soon I'll be adding:
+- 🛒 E-Commerce API with .NET & JWT
+- 📚 Book Store API with full CRUD
+- 🧠 LeetCode problem solutions
+
+> Stay tuned — I’m working hard to bring my ideas to life!
+
+---
+
