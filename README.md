@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Amr Almoghazy</h1>
 
 <p align="center">
-💻 .NET Backend Developer | 🎓 CS Student @ Damietta University – Faculty of Computers & AI  
+💻 .NET Backend Developer | 🎓 IS Student @ Damietta University – Faculty of Computers & AI  
 </p>
 
 ---
